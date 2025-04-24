@@ -1,5 +1,5 @@
 {
-    "active": false,
-    "message": "⚠️ Scheduled maintenance 19th May 1:00 - 3:00",
+    "active": true,
+    "message": "⚠️ Scheduled maintenance 26th May 13:00 - 23:00",
     "type": "warning"
 }
