@@ -1,5 +1,5 @@
 {
     "active": true,
-    "message": "⚠️ Scheduled maintenance 26th May 13:00 - 23:00",
+    "message": "⚠️ Development environment - not production ready",
     "type": "warning"
 }
